@@ -1,0 +1,39 @@
+{
+	"analytics-uuid": "9bff883a-ec3b-4a64-b3bb-6cf5972c2fcb",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1643021436174
+	},
+	"usage": false,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "102809569617179793772",
+		"hd": "mozn.sa",
+		"email": "alshamlan@mozn.sa",
+		"email_verified": true,
+		"at_hash": "0N9HCWgkXGMhWIGGTaZywA",
+		"iat": 1643021444,
+		"exp": 1643025044
+	},
+	"tokens": {
+		"expires_at": 1643025789416,
+		"refresh_token": "1//03R9iuzRYX8fgCgYIARAAGAMSNwF-L9IrPQu6ZhkX3_inIhbqLjn-oI1gHHz7bOxnAXolg83ZLLs8apnyXCROcXJAPMKFfgQZhJY",
+		"scopes": [],
+		"access_token": "ya29.A0ARrdaM9NQ0XnCRblNnEaMM0Ud1mlFfK6p2GLUdlGUDcInK5tTI0yZpyxHfEpr4AITA50sRWv0ff1Avu5gngWqrGAtqTmUjqqK7B3VFoJPYw_V60uQLxHvisw04_5TUmSUQIYGyKvOxNC6qvIp4OO1t-0Av1rXbrTmNgu",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImNhMDA2MjBjNWFhN2JlOGNkMDNhNmYzYzY4NDA2ZTQ1ZTkzYjNjYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAyODA5NTY5NjE3MTc5NzkzNzcyIiwiaGQiOiJtb3puLnNhIiwiZW1haWwiOiJhbHNoYW1sYW5AbW96bi5zYSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiVHA3Sk0zNi1uZUVVNlFfQm1LSXBxZyIsImlhdCI6MTY0MzAyMjE5MCwiZXhwIjoxNjQzMDI1NzkwfQ.TQ2JPJhb5s1W-3_og06BtP4VqGJ-ChrU1A1iQLgOo-vOQdqNS2hRlLzrMWPZ_39I7qU31CH39MxDtPWwZbrDPphlOw3_XrW4W1kV1-SAFbRf_C4d_aQsZEIQIh-cvrg-TGKg6wTygRVcex8yQqUQcjNBL1MajKYsb6bUBiy4j853F2wgpB8EwAtfZrwJNvRSNC2Ojovb4HqDeMSm1VrfMXGei_ocGSjyBaHCfYZidoG_fj51a7gGFSpQYeie4O7YitYB0Zf10fKQpsb0TEKUOHuzP_Fh7eD3jTpVmxRME3OYF2b8U58K1ZK114PInbnldVOyhpyeZoqVH0IlpuOwyg"
+	},
+	"activeProjects": {
+		"/home/alshamlan/Thakaa-Apollo": "thakaa-e6e86"
+	}
+}
